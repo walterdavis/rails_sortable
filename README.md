@@ -75,6 +75,6 @@ jQuery ->
 ```
 
 ## Javascript options
-jquery plugin `railsSortable` is just a wrapper `jquery.ui.sortable`. therefore it accepts all of `sortbale` options.
+jquery plugin `railsSortable` is just a wrapper `jquery.ui.sortable`. therefore it accepts all of `sortable` options.
 
 see the [http://api.jqueryui.com/sortable/](http://api.jqueryui.com/sortable/) to get detail.
