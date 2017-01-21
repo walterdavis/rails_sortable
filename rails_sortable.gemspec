@@ -18,12 +18,12 @@ Gem::Specification.new do |s|
 
   s.test_files = Dir["spec/**/*"]
 
-  s.add_dependency "rails", "~> 4.0"
+  s.add_dependency "rails"
 
-  s.add_development_dependency "jquery-rails", "~> 3.0"
-  s.add_development_dependency "jquery-ui-rails", "~> 4.1"
-  s.add_development_dependency "sqlite3", "~> 1.3"
-  s.add_development_dependency "rspec-rails", "~> 2.0"
-  s.add_development_dependency "pry-rails","~> 0.3"
-  s.add_development_dependency "pry-byebug", "~> 1.2"
+  s.add_development_dependency "jquery-rails"
+  s.add_development_dependency "jquery-ui-rails"
+  s.add_development_dependency "sqlite3"
+  s.add_development_dependency "rspec-rails"
+  s.add_development_dependency "pry-rails"
+  s.add_development_dependency "pry-byebug"
 end
